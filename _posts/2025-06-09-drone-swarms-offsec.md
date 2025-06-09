@@ -1,7 +1,7 @@
 ---
 title: Drone Swarm Cybersecurity from Offensive Perspective (Swarm Hijacking by Sybil Attack - SHSA)
 published: 2024-07-20
-description: '"This research aims to demonstrate, from an offensive perspective and through simple proof-of-concept experiments using the MAVLink protocol, why drone swarms must be designed with cybersecurity as a foundational principle. The concepts can be simulated using popular drone platforms such as PX4 SITL, Gazebo, AirSim, and Mission Planner.'
+description: "This research aims to demonstrate, from an offensive perspective and through simple proof-of-concept experiments using the MAVLink protocol, why drone swarms must be designed with cybersecurity as a foundational principle. The concepts can be simulated using popular drone platforms such as PX4 SITL, Gazebo, AirSim, and Mission Planner."
 image: '/assets/drone_swarm.webp'
 tags: ["Drone", "Drone Cybersecurity", "Drone Hacking"]
 category: 'Drone Cybersecurity'
